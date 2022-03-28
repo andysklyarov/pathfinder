@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pathfinder</string>
+    <string name="title_compass">Navigation</string>
+    <string name="title_map">Map</string>
+    <string name="title_points_list">Points list</string>
+    <string name="title_settings">Settings</string>
+</resources>
